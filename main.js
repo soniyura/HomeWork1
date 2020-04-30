@@ -23,3 +23,5 @@ let question = prompt("Введите обязательную статью ра
 
 
 alert("Ваш бюджет на день: " + appData.budget / 30);
+
+console.log("Информация");
